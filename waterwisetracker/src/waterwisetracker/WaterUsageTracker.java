@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 /**
  * Tracks water usage activities and calculates statistics
- * @author YourName
+ * @author SAM ZI KANG
  */
 public class WaterUsageTracker {
     private double totalUsage;
