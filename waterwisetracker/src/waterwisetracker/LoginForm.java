@@ -10,7 +10,7 @@ import java.awt.*;
 import java.awt.event.*;
 /**
  * Login form for WaterWise Tracker application
- * @author YourName
+ * @author SAM ZI KANG
  */
 public class LoginForm extends JFrame {
     private JTextField txtUsername;
